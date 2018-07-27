@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/reddyraja/Desktop/tejaswi\ chava/poc/node_modules/react-native/third-party/double-conversion-1.1.5/src/strtod.cc \
+  /Users/reddyraja/Desktop/tejaswi\ chava/poc/node_modules/react-native/third-party/double-conversion-1.1.5/src/strtod.h \
+  /Users/reddyraja/Desktop/tejaswi\ chava/poc/node_modules/react-native/third-party/double-conversion-1.1.5/src/utils.h \
+  /Users/reddyraja/Desktop/tejaswi\ chava/poc/node_modules/react-native/third-party/double-conversion-1.1.5/src/bignum.h \
+  /Users/reddyraja/Desktop/tejaswi\ chava/poc/node_modules/react-native/third-party/double-conversion-1.1.5/src/cached-powers.h \
+  /Users/reddyraja/Desktop/tejaswi\ chava/poc/node_modules/react-native/third-party/double-conversion-1.1.5/src/diy-fp.h \
+  /Users/reddyraja/Desktop/tejaswi\ chava/poc/node_modules/react-native/third-party/double-conversion-1.1.5/src/ieee.h
