@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chinni\.android\build-cache\669516e1c748abe59c3a2efc877d7d0a64c911a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="D:\TejaswiChava\reactnative\visual\android\app\build\intermediates\pre-dexed\debug\classes_77369808c332920b6bdd72c189ce6655c1240d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chinni\.android\build-cache\669516e1c748abe59c3a2efc877d7d0a64c911a5\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\TejaswiChava\reactnative\visual\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_79e7d0ca7d9bc5777596cce4c11334f37a146df3.jar" />
+    </item>
+
+</items>

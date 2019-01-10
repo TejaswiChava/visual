@@ -6,8 +6,13 @@ import Application from './application';
 
 
 const App = createStackNavigator({
-    Home: { screen: Application },
-    Display: {screen: Display}
+    Home: { screen: Application , navigationOptions:{
+        title:'Home'
+    }},
+    Display: {screen: Display , navigationOptions: {
+        title:'Slide Show',
+        headerLeft: Platform.OS === 'android' ? null : '' 
+    }}
 
 });
 export default App;
